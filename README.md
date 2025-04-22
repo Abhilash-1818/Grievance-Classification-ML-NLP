@@ -2,6 +2,9 @@
 
 This project involves building a robust machine learning model to classify consumer financial complaints into relevant categories using Natural Language Processing techniques.
 
+## 📦 Dataset
+[Download grievance.csv from Google Drive](https://drive.google.com/file/d/1f0EG1G4lrWgHnjoh0XSUZdZDLCkqeG3o/view?usp=drive_link)
+
 ---
 
 ## 📊 Dataset Overview
